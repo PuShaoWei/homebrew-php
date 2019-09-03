@@ -1,4 +1,4 @@
-# Homebrew PHP
+# $Homebrew PHP
 
 A centralized repository for PHP-related brews.
 
